@@ -1,0 +1,9 @@
+{
+  "nodeModulesDir": true,
+  "imports": {
+    "@typescript-eslint/parser": "npm:@typescript-eslint/parser",
+    "@stylistic/eslint-plugin": "npm:@stylistic/eslint-plugin",
+    "@stylistic/eslint-plugin-ts": "npm:@stylistic/eslint-plugin-ts",
+    "@stylistic/eslint-plugin-js": "npm:@stylistic/eslint-plugin-js"
+  }
+}
